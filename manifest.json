@@ -1,0 +1,8 @@
+{
+  "name": "Work Life Balance Scorer",
+  "short_name": "work-life-ba",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
