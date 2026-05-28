@@ -1,8 +1,9 @@
 {
   "name": "Work Life Balance Scorer",
   "short_name": "work-life-ba",
-  "start_url": "/",
+  "start_url": "/work-life-balance-scorer/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/work-life-balance-scorer/"
 }
